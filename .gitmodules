@@ -1,0 +1,36 @@
+[submodule "packages/nxt-global-scss-files-loader"]
+	path = packages/nxt-global-scss-files-loader
+	url = git@github.com:atypon/nxt-global-scss-files-loader.git
+[submodule "packages/nxt-bundler"]
+	path = packages/nxt-bundler
+	url = git@github.com:atypon/nxt-bundler.git
+[submodule "packages/nxt-server"]
+	path = packages/nxt-server
+	url = git@github.com:atypon/nxt-server.git
+[submodule "packages/nxt-babel"]
+	path = packages/nxt-babel
+	url = git@github.com:atypon/nxt-babel.git
+[submodule "packages/nxt-dynamic-widgets-loader"]
+	path = packages/nxt-dynamic-widgets-loader
+	url = git@github.com:atypon/nxt-dynamic-widgets-loader.git
+[submodule "packages/nxt-utils"]
+	path = packages/nxt-utils
+	url = git@github.com:atypon/nxt-utils.git
+[submodule "packages/nxt-stories"]
+	path = packages/nxt-stories
+	url = git@github.com:atypon/nxt-stories.git
+[submodule "packages/nxt-resolver"]
+	path = packages/nxt-resolver
+	url = git@github.com:atypon/nxt-resolver.git
+[submodule "packages/nxt-sass-vars-loader"]
+	path = packages/nxt-sass-vars-loader
+	url = git@github.com:atypon/nxt-sass-vars-loader.git
+[submodule "packages/nxt-extend"]
+	path = packages/nxt-extend
+	url = git@github.com:atypon/nxt-extend.git
+[submodule "packages/nxt-base-styles-loader"]
+	path = packages/nxt-base-styles-loader
+	url = git@github.com:atypon/nxt-base-styles-loader.git
+[submodule "packages/nxt-router"]
+	path = packages/nxt-router
+	url = git@github.com:atypon/nxt-router.git

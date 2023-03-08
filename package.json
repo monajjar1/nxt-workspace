@@ -1,0 +1,12 @@
+{
+  "name": "nxt-workspace",
+  "version": "0.0.1",
+  "description": "The NXT platform development workspace",
+  "private": true,
+  "author": "Mohammad Al-Najjar",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ]
+
+}
