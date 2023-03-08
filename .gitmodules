@@ -34,3 +34,6 @@
 [submodule "packages/nxt-router"]
 	path = packages/nxt-router
 	url = git@github.com:atypon/nxt-router.git
+[submodule "packages/nxt-core"]
+	path = packages/nxt-core
+	url = git@github.com:atypon/nxt-core.git
