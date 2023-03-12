@@ -5,8 +5,12 @@
   "private": true,
   "author": "Mohammad Al-Najjar",
   "license": "ISC",
+  "main": "index.js",
+  "repository": "git@github.com:monajjar1/nxt-workspace.git",
+  "scripts": {
+    "nuke": "./scripts.py --nuke"
+  },
   "workspaces": [
     "packages/*"
   ]
-
 }
